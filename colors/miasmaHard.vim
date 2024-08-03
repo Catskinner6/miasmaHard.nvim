@@ -11,8 +11,8 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name="miasma"
-let g:colors_name="miasma"
+let colors_name="miasmaHard"
+let g:colors_name="miasmaHard"
 
 hi Boolean guifg=#78834b guibg=NONE guisp=NONE blend=NONE gui=NONE
 hi ColorColumn guifg=NONE guibg=#222222 guisp=NONE blend=NONE gui=NONE
